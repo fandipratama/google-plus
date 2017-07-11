@@ -1,0 +1,18 @@
+Tutorial kali ini akan membahas tentang memanfaatkan akun google plus untuk mengakses website
+
+1.masuk akun google plus
+2.buka link http://www.w3resource.com/API/google-plus/tutorial.php untuk donwload script program yang akan digunakan, ikuti langkah" berikut
+3. masuk di google api, lalu buat project terlebih dahulu
+4. buat client id dan api key, sesuaikan project yg di buat
+5. isi layar persetujuan oauth dengan website kalian,
+6. setelah itu download file" di link yang awal tadi, dan juga download php client
+7. pindahkan file yg telah di download tadi di localhost dan buat folder nya
+8. buat file style.css, lalu extract juga kedua winrar tadi
+9. keluarkan file google_client.php dan google_plusservice untuk melengkapi program
+10. buka file example.php, ikuti langkah" berikut
+11. isi client id dan api key nya
+12. coba jalankan file nya, masukkan id google plus nya
+
+itu adalah hasil dari memanfaatkan akun google plus untuk mengakses website
+
+sekian tutorial kali ini, terima kasih.
